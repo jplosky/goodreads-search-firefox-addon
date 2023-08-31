@@ -9,13 +9,13 @@ browser.menus.create({
   title: "Goodreads: Search Now",
   contexts: ["selection"]
 });
-
+/*
 browser.menus.create({
   id: goodreads_search_later_id,
   title: "Goodreads: Search Later",
   contexts: ["selection"]
 });
-
+*/
 /*
 Open goodreads search tab.
 */
